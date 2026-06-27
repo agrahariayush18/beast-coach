@@ -46,3 +46,25 @@ Key Highlights:
 - Ultrasorb Tech™ for improved digestion
 - No unnecessary fillers or preservatives
 - Supports muscle recovery, strength, and lean muscle development
+
+---
+
+## Frequently Asked Questions
+
+### What makes BeastLife Whey Protein different?
+BeastLife Whey Protein uses Ultrasorb Tech™, a digestive enzyme blend designed to improve protein digestion and absorption. It is made with whey protein concentrate processed using Cross-Flow Microfiltration (CFM) to help preserve protein quality.
+
+### Is whey protein a steroid?
+No. Whey protein is a milk-derived protein supplement used to help meet daily protein requirements. It does not contain anabolic steroids.
+
+### Can I take whey protein on rest days?
+Yes. Protein supports muscle repair and recovery every day, including rest days. Consuming whey protein can help you consistently meet your daily protein target.
+
+### Does whey protein cause side effects?
+Whey protein is generally well tolerated. Some individuals who are lactose intolerant or sensitive to dairy may experience bloating, gas, or mild digestive discomfort.
+
+### When should I take whey protein?
+Whey protein can be consumed after workouts or anytime during the day to help meet your daily protein requirements.
+
+### Who should use whey protein?
+Whey protein is suitable for beginners, recreational gym-goers, athletes, and anyone looking to increase their daily protein intake for muscle recovery and maintenance.
