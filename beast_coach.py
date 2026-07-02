@@ -11,7 +11,14 @@ load_dotenv()  # load the API key from .env
 # Load the pieces ONCE (not on every question)
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 client = chromadb.PersistentClient(path="./chroma_db")
-collection = client.get_collection("beastlife")
+
+try:
+    collection = client.get_collection("beastlife")
+except Exception:
+    import build_index
+    build_index.main()
+    collection = client.get_collection("beastlife")
+
 groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 def answer(question):
